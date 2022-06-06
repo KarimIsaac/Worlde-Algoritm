@@ -1,0 +1,14 @@
+{
+  "name": "worlde-algoritm",
+  "version": "1.0.0",
+  "description": "Worlde",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "Karim Isaac",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
